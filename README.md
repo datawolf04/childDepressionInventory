@@ -12,3 +12,4 @@ The author of this repository is not a mental health professional, nor does he h
 
 ## References
 
+See [Annotated Bibliography](cdiAnnBib.md)
