@@ -1,7 +1,9 @@
 .Renviron
 mfqReport.pdf
-.mygitignore
+.gitignore
 /.quarto/
 techStack.md
 TODO.md
 introPost.md
+hostURL
+
